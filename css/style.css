@@ -1,0 +1,63 @@
+body {
+    background: LightSteelBlue;
+}
+#area {
+    margin: 0 auto;
+
+    margin-top: 120px;
+    margin-bottom: 120px;
+    width: 320px;
+    height: 270px;
+}
+
+legend {
+    font-size: 30px;
+}
+.form {
+    border-width: 5px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: black;
+    height: 250px;
+    width: 400px;
+}
+
+.container-form {
+    padding: 25px;
+    margin-top: 30px;
+}
+
+fieldset {
+    text-align: center;
+    width: 300px;
+    height: 250px;
+}
+
+.data {
+    display: inline-block;
+    margin: 10px;
+
+}
+
+.dataAtual {
+    margin-left: 18px;
+
+}
+
+.dataAnterior {
+    margin-left: 18px;
+}
+
+label.mostrarDias {
+    padding: 10px;
+    border-radius: 10px;
+    background-color:white;    
+}
+
+
+
+span {
+    color: green;
+    font-weight: bolder;
+    font-size: 1.5em;
+}
